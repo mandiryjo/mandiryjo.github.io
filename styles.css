@@ -3,6 +3,10 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 h1{
-    color:brown;
+    color:burlywood;
+    text-align:center;
+}
+h2{
+    color: burlywood;
     text-align:center;
 }
